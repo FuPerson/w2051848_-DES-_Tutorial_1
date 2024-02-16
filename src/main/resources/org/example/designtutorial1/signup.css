@@ -1,0 +1,19 @@
+AnchorPane {
+    /*-fx-background-color: skyblue;*/
+}
+
+Text {
+    -fx-font-family: Times New Roman;
+}
+
+.h1 {
+    -fx-font-size: 36;
+}
+
+.h2 {
+    -fx-font-size: 24;
+}
+
+.normal {
+    -fx-font-size: 12;
+}
